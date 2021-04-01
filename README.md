@@ -1,7 +1,7 @@
 # aprendendo-git
-# aprendendo-git
-# aprendendo-git
+
 #comandos basicos do git
+
 ```sh
 git init #para iniciar um repositorio
 git remote add origin link_do_repositorio_do_github # pegar o link no github
