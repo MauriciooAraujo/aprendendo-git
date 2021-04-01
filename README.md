@@ -1,6 +1,6 @@
 # aprendendo-git versao 3
 
-#comandos basicos do git
+# comandos basicos do git
 
 ```sh
 git init #para iniciar um repositorio
